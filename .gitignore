@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions and compiled objects
+*.so
+*.o
+*.pyd
+
+# Local databases, caches, and logs
+Database/
+cache/
+*.log
+
+# Build, packaging, and dependency directories
+_internal/
+.dll/
+build/
+cache/
+dist/
+dist_nuitka/
+LockHunter/
+scratch/
+specs/
+nuitka-crash-report.xml
+
+# IDE and settings files
+.settings.json
+.bookmarks.json
+.idea/
+.vscode/
+
+# Temporary files and binary executables
+timestamp.exe
+44c5b14a-ec80-4a10-bed2-01ad88c608a6.png
+mpvvideoitem.o

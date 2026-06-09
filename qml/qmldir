@@ -1,0 +1,11 @@
+singleton Theme 1.0 Theme.qml
+FiltersPanel 1.0 FiltersPanel.qml
+ResultsView 1.0 ResultsView.qml
+IconButton 1.0 IconButton.qml
+GlyphIcon 1.0 GlyphIcon.qml
+SectionLabel 1.0 SectionLabel.qml
+ModernField 1.0 ModernField.qml
+ModernCombo 1.0 ModernCombo.qml
+ModernCheck 1.0 ModernCheck.qml
+SegmentedControl 1.0 SegmentedControl.qml
+BulkRenameDialog 1.0 BulkRenameDialog.qml
